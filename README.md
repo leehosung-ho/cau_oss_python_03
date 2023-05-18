@@ -11,4 +11,4 @@ diff 시연 중
 gitlens 실습
 
 ## 2023-05-18
-Homework#2, figure 모듈 구현
+Homework#4, figure 모듈 구현
